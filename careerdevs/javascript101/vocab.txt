@@ -1,0 +1,11 @@
+vocabulary:
+
+Parts of a program:
+
+//Create an array, five to 10 elements
+
+//Understand the parts of the For Loop:
+
+1: Declare the variable,
+2: Conditional
+3: increment

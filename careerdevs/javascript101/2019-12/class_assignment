@@ -1,0 +1,11 @@
+
+In carrental.js, add 'populate the array', add to the empty array the car that we rented.
+
+After that, create a program with arrays of your own and make use of the array functions such as"
+    .push(),
+    .pop(),
+    .unshift(),
+    .shift(),
+    .splice(),
+
+    ..Any questions, ask me, and we'll go over it
